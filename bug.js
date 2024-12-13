@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Image` component with a URI that points to an image that is either not accessible or does not exist. This is often seen with images stored in cloud storage like Firebase Storage or AWS S3, where the URI may be incorrect or the image may not be publicly accessible or properly configured.
